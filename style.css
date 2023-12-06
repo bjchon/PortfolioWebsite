@@ -22,6 +22,10 @@
 /*------------------------------------------------------------------
     SKELETON
 -------------------------------------------------------------------*/
+#socialHeading {
+    color: white;
+}
+
 #instagramContainer {
     display: inline-block;
     position: relative;
@@ -606,6 +610,7 @@ xclip
 	margin-left: auto;
 	margin-top: 0px;
 	cursor: pointer;
+    background-color: #867878;
 }
 
 .btn-hover-new::after {
